@@ -6,3 +6,4 @@
 - User then input 2 numbers.
 - Console will show result.
 
+![alt text](https://github.com/teddydamian/Prework-Calculator/blob/master/Calculator.png)
