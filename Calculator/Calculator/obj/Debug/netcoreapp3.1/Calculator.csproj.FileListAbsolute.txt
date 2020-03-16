@@ -1,0 +1,10 @@
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/teddydamian/Desktop/codefellows/code401ASP.NET/Prework-Calculator/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
